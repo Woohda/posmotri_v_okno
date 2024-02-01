@@ -125,7 +125,7 @@ ol {
   cursor: pointer;
 }
 
-.search-form__label:hover {
+.search-form__label:has(input[type='checkbox']):hover {
   text-decoration: underline;
 }
 
