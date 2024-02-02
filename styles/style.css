@@ -270,7 +270,7 @@ input[type='checkbox']:checked + .search-form__pseudo-checkbox::before {
 }
 
 .content__video-card-description-container {
-  width: 194px;
+  width: 198px;
   align-self: flex-start;
 }
 
